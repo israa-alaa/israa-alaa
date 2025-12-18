@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)  
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white )
 
 ### 🔹 Tools & Collaboration  
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)  
