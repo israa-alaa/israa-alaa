@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Practicing **JavaScript (Vanilla)** with HTML & CSS  
+- 🌱 Practicing **JavaScript (Vanilla)** with HTML & CSS
+- Practicing with Bootstrap 
 - 🎯 Learning **UI basics** to make user-friendly websites  
 - 🤝 Love working in **teams** & collaborating with tools  
 - 📚 Always curious & eager to grow as a developer  
