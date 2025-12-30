@@ -1,19 +1,19 @@
-# Hi there 👋, I'm Israa
+# Hi there, I'm Israa
 
-💻 **Frontend Developer (Vanilla JS)** | 🎨 Passionate about building simple & clean UIs  
+ **Frontend Developer (Vanilla JS)** |  Passionate about building simple & clean UIs  
 
 ---
 
-## 🚀 About Me
-- 🌱 Practicing **JavaScript (Vanilla)** with HTML & CSS
+##  About Me
+- Practicing **JavaScript (Vanilla)** with HTML & CSS
 - Practicing with Bootstrap 
-- 🎯 Learning **UI basics** to make user-friendly websites  
-- 🤝 Love working in **teams** & collaborating with tools  
-- 📚 Always curious & eager to grow as a developer  
+- Learning **UI basics** to make user-friendly websites  
+- Love working in **teams** & collaborating with tools  
+- Always curious & eager to grow as a developer  
 
 ---
 
-## 🛠️ Tech & Tools  
+## Tech & Tools  
 
 ### 🔹 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -32,15 +32,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![Sony's GitHub stats](https://github-readme-stats.vercel.app/api?username=israa-alaa&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=israa-alaa&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-alaa&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/israa-alaa-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- ✉️ Reach me at: **israaelmeniawy@gmail.com**  
-
----
-
-⭐️ From [Israa](https://github.com/israa-alaa)
+##  Connect with Me  
+-  [LinkedIn](https://www.linkedin.com/in/israa-alaa-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+-  Reach me at: **israaelmeniawy@gmail.com**  
